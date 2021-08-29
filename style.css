@@ -479,10 +479,10 @@ body{
 
 @keyframes animateh{
     0%{
-        background-image: url(img/205220689_1015195802555513_8226087834221653049_n.jpg);
+        background-image: url(img/monzer.jpg);
     }
     100%{
-        background-image: url(img/205220689_1015195802555513_8226087834221653049_n.jpg);
+        background-image: url(img/monzer.jpg);
     }
 }
 
@@ -491,7 +491,7 @@ body{
     @keyframes animate {
     0%{
         transform: translateZ(200px);
-        background-image: url(img/205220689_1015195802555513_8226087834221653049_n.jpg);
+        background-image: url(img/monzer.jpg);
         background-position: center 176px;
         background-attachment: fixed;
         background-size: 206;
@@ -499,7 +499,7 @@ body{
     }
     100%{
         transform: translateZ(0px);
-        background-image: url(img/205220689_1015195802555513_8226087834221653049_n.jpg);
+        background-image: url(img/monzer.jpg);
         background-position: center 176px;
         background-attachment: fixed;
         background-size: 206;
@@ -511,7 +511,7 @@ body{
     @keyframes animate {
     0%{
         transform: translateZ(200px);
-        background-image: url(img/205220689_1015195802555513_8226087834221653049_n.jpg);
+        background-image: url(img/monzer.jpg);
         background-position: center 176px;
         background-attachment: fixed;
         background-size: 206;
@@ -519,7 +519,7 @@ body{
     }
     100%{
         transform: translateZ(0px);
-        background-image: url(img/205220689_1015195802555513_8226087834221653049_n.jpg);
+        background-image: url(img/monzer.jpg);
         background-position: center 170px;
         background-attachment: fixed;
         background-size: 206;
