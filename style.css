@@ -87,8 +87,8 @@ body{
 /*--about--*/
 .i-d{
     position: relative;
-    transform-style: preserve-3d;
-    perspective: 50px;
+    transform-style: preserve-3d !important;
+    perspective: 50px !important;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,6 +100,8 @@ body{
     flex-wrap: wrap;
     width: 206px;
     height: 206px;
+    transform-style: preserve-3d !important;
+    perspective: 50px !important;
 }
 #img .blocks{
     position: relative;
