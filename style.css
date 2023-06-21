@@ -164,7 +164,7 @@ body{
 }
 /*--work x--*/
 .work{
-    height: 50rem;
+    height: 60rem;
     background-color: #F8F8F8;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 }
@@ -229,7 +229,7 @@ body{
 /*--educiton--*/
 .educiton{
     position: relative;
-    min-height: 50rem;
+    min-height: 45rem;
     background-color: #F8F8F8;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 }
@@ -389,6 +389,14 @@ body{
     content: '';
     position: absolute;
     width: 85%;
+    height: 3px;
+    background-color: #000000;
+    z-index: 1;
+}
+#php::after{
+    content: '';
+    position: absolute;
+    width: 55%;
     height: 3px;
     background-color: #000000;
     z-index: 1;
